@@ -7,3 +7,7 @@
 .sidebarOption:hover{
     background-color:  #F4C2C2;
 }
+
+.sidebarOption>.MuiSvgIcon-root{
+    padding: 20px;
+}
